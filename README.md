@@ -25,29 +25,17 @@ ALGORITHM FOR DECODING
 SCREENSHOTS!
 
 ![WhatsApp Image 2024-05-14 at 01 46 07_67a51408](https://github.com/Aishu020/Steganography-Application/assets/85669685/de8014f1-9a22-470b-8696-a80508579a7b)
-
 ![WhatsApp Image 2024-05-14 at 01 46 07_e6e33163](https://github.com/Aishu020/Steganography-Application/assets/85669685/eebd147d-ff87-47f0-976b-7e1e7ef84e59)
-
 ![WhatsApp Image 2024-05-14 at 01 46 07_2f94db08](https://github.com/Aishu020/Steganography-Application/assets/85669685/2d454205-e67d-4f1d-acab-83483e774201)
-
 ![WhatsApp Image 2024-05-14 at 01 46 08_458ba371](https://github.com/Aishu020/Steganography-Application/assets/85669685/31921522-c443-46ae-9033-c1df9d9762f9)
-
 ![WhatsApp Image 2024-05-14 at 01 46 08_20d0eaad](https://github.com/Aishu020/Steganography-Application/assets/85669685/81317fa7-626b-4d3c-8eba-22b22f736bd4)
-
 ![WhatsApp Image 2024-05-14 at 01 47 27_56c488e2](https://github.com/Aishu020/Steganography-Application/assets/85669685/d02784ef-c3f7-4ea7-a64b-aa48ac51cce4)
-
 ![WhatsApp Image 2024-05-14 at 01 47 45_764aa155](https://github.com/Aishu020/Steganography-Application/assets/85669685/9e59054a-ea54-42dc-9888-e5967e849b8e)
-
 ![WhatsApp Image 2024-05-14 at 01 47 52_d7b107f7](https://github.com/Aishu020/Steganography-Application/assets/85669685/6dd950a3-1102-4d6f-af33-df35587b4d1b)
-
 ![WhatsApp Image 2024-05-14 at 01 47 57_46be0c79](https://github.com/Aishu020/Steganography-Application/assets/85669685/e744d7b2-54db-4fa3-937e-d85aca2c3a78)
-
 ![WhatsApp Image 2024-05-14 at 01 48 12_e4ae0f11](https://github.com/Aishu020/Steganography-Application/assets/85669685/3e09ee8c-d663-4ac3-80ba-be7c66438c5e)
-
 ![WhatsApp Image 2024-05-14 at 01 48 13_4e71774c](https://github.com/Aishu020/Steganography-Application/assets/85669685/771d0041-2ff2-4fc8-9f67-b4edf45d8d4f)
-
 ![WhatsApp Image 2024-05-14 at 01 48 32_73bb6b0f](https://github.com/Aishu020/Steganography-Application/assets/85669685/28af4737-31a1-4ffa-9764-1f13cbacc682)
-
 ![WhatsApp Image 2024-05-14 at 01 48 19_eeb6da86](https://github.com/Aishu020/Steganography-Application/assets/85669685/3adbc648-8f9e-4622-812d-431dd291dd09)
 
 
